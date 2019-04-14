@@ -5,4 +5,5 @@ def turn_count(board)
       filled_spots += 1
     end
   end
+  return filled_spots
 end
